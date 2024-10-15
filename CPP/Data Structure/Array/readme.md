@@ -11,3 +11,8 @@
 8. Find Second Largest: Find the second largest element in an array.
 9. Sort Array: Sort an array in ascending order.
 10. Rotate Array: Rotate an array to the right by K steps.
+11. Find Kth Largest: Find the Kth largest element in an array.
+12. Binary Search: Implement binary search on a sorted array.
+13. Merge Two Arrays: Merge two sorted arrays into one sorted array.
+14. Max Subarray: Find the contiguous subarray with the maximum sum.
+15. Find Missing Number: Find the missing number from an array containing numbers from 1 to N.
